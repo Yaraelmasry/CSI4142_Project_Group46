@@ -1,0 +1,100 @@
+,Age,Gender,student,play_video_game,favorite_game,most_played_game,reason_of_play_game,Genre
+0,22,Male,Yes,Yes,FIFA 22,FIFA 22 ,competition,Sports
+1,21,Male,Yes,Yes,Call of Duty,Call of Duty,entertainment,Shooter
+2,23,Male,Yes,Yes,Grand Theft Auto: Vice City,Grand Theft Auto: Vice City,entertainment,Action
+3,23,Male,Yes,sometimes,PlayerUnknown's Battlegrounds,PlayerUnknown's Battlegrounds,entertainment,Shooter
+4,23,Male,Yes,Yes,PlayerUnknown's Battlegrounds,PlayerUnknown's Battlegrounds,entertainment,Shooter
+5,23,Male,Yes,Yes,PlayerUnknown's Battlegrounds,PlayerUnknown's Battlegrounds,entertainment,Shooter
+6,23,Male,Yes,sometimes,Grand Theft Auto: Vice City,Grand Theft Auto: Vice City,entertainment,Action
+7,22,Male,Yes,Yes,Minecraft,Minecraft,entertainment,Misc
+8,23,Male,No,Yes,Call of Duty,Call of Duty,entertainment,Shooter
+9,23,Male,Yes,Yes,FIFA 22,FIFA 22,entertainment,Sports
+10,24,Male,Yes,sometimes,FIFA 22,FIFA 22,competition,Sports
+11,23,Male,Yes,Yes,Grand Theft Auto: Vice City,Grand Theft Auto: Vice City,entertainment,Action
+12,23,Female,No,sometimes,Minecraft,Minecraft,entertainment,Misc
+13,24,Male,Yes,Yes,Minecraft,Minecraft,entertainment,Misc
+14,22,Male,Yes,Yes,Call of Duty,Call of Duty,entertainment,Shooter
+15,23,Male,No,Yes,FIFA 22,FIFA 22,entertainment,Sports
+16,23,Male,Yes,Yes,Minecraft,Minecraft,entertainment,Misc
+17,24,Male,Yes,Yes,Grand Theft Auto: Vice City,Grand Theft Auto: Vice City,entertainment,Action
+18,24,Male,Yes,sometimes,PlayerUnknown's Battlegrounds,PlayerUnknown's Battlegrounds,entertainment,Shooter
+19,24,Male,Yes,Yes,PlayerUnknown's Battlegrounds,PlayerUnknown's Battlegrounds,entertainment,Shooter
+20,22,Male,Yes,sometimes,PlayerUnknown's Battlegrounds,PlayerUnknown's Battlegrounds,entertainment,Shooter
+21,21,Male,Yes,Yes,Minecraft,Minecraft,entertainment,Misc
+22,23,Male,Yes,Yes,Minecraft,Minecraft,entertainment,Misc
+23,21,Male,Yes,sometimes,Apex Legends,Apex Legends,entertainment,Shooter
+24,23,Male,Yes,Yes,Call of Duty,Call of Duty,entertainment,Shooter
+25,22,Male,Yes,sometimes,Rocket League,Rocket League,entertainment,Sports
+26,24,Male,Yes,Yes,Grand Theft Auto: Vice City,Grand Theft Auto: Vice City,entertainment,Action
+27,24,Male,Yes,Yes,Grand Theft Auto: Vice City,Grand Theft Auto: Vice City,entertainment,Action
+28,24,Male,Yes,Yes,Minecraft,Minecraft,entertainment,Misc
+29,25,Female,Yes,Yes,FIFA 22,FIFA 22,entertainment,Sports
+30,23,Male,Yes,Yes,Grand Theft Auto: Vice City,Grand Theft Auto: Vice City,entertainment,Action
+31,23,Male,Yes,sometimes,Animal Crossing,Animal Crossing,entertainment,Simulation
+32,23,Male,Yes,Yes,Animal Crossing,Animal Crossing,entertainment,Simulation
+33,23,Male,Yes,sometimes,Apex Legends,Apex Legends,entertainment,Shooter
+34,25,Male,Yes,Yes,Call of Duty,Call of Duty,entertainment,Shooter
+35,23,Male,Yes,Yes,Minecraft,Minecraft,entertainment,Misc
+36,22,Female,Yes,Yes,Grand Theft Auto: Vice City,Grand Theft Auto: Vice City,entertainment,Action
+37,23,Male,Yes,sometimes,Animal Crossing,Animal Crossing,entertainment,Simulation
+38,23,Male,Yes,Yes,Call of Duty,Call of Duty,entertainment,Shooter
+39,23,Male,Yes,Yes,Minecraft,Minecraft,entertainment,Misc
+40,26,Male,Yes,Yes,FIFA 22,FIFA 22,competition,Sports
+41,23,Male,Yes,Yes,Grand Theft Auto: Vice City,Grand Theft Auto: Vice City,entertainment,Action
+42,23,Male,Yes,Yes,Among Us,Among Us,entertainment,Misc
+43,24,Male,Yes,Yes,Grand Theft Auto: Vice City,Grand Theft Auto: Vice City,GTA Vice City,Action
+44,21,Female,Yes,sometimes,Animal Crossing,Animal Crossing,entertainment,Simulation
+45,23,Male,Yes,Yes,Call of Duty,Call of Duty,entertainment,Shooter
+46,23,Male,Yes,Yes,Minecraft,Minecraft,creativity,Misc
+47,23,Male,Yes,sometimes,The Sims,The Sims,entertainment,Simulation
+48,26,Male,Yes,Yes,Minecraft,Minecraft,entertainment,Misc
+49,24,Male,No,sometimes,Stardew Valley,Stardew Valley,relaxation,Simulation
+50,24,Male,No,Yes,Grand Theft Auto: Vice City,Grand Theft Auto: Vice City,entertainment,Action
+51,24,Male,Yes,Yes,Grand Theft Auto: Vice City,Grand Theft Auto: Vice City,entertainment,Action
+52,27,Female,Yes,sometimes,Stardew Valley,Stardew Valley,relaxation,Simulation
+53,23,Male,Yes,Yes,Call of Duty,Call of Duty,entertainment,Shooter
+54,23,Male,Yes,Yes,Minecraft,Minecraft,entertainment,Misc
+55,23,Male,Yes,Yes,Stardew Valley,Stardew Valley,relaxation,Simulation
+56,26,Male,Yes,Yes,Grand Theft Auto: Vice City,Grand Theft Auto: Vice City,entertainment,Action
+57,25,Male,Yes,Yes,Grand Theft Auto: Vice City,Grand Theft Auto: Vice City,entertainment,Action
+58,25,Male,Yes,Yes,Grand Theft Auto: Vice City,Grand Theft Auto: Vice City,entertainment,Action
+59,25,Male,Yes,Yes,Call of Duty,Call of Duty,entertainment,Shooter
+60,23,Male,Yes,Yes,Minecraft,Minecraft,creativity,Misc
+61,23,Male,No,Yes,Minecraft,Minecraft,entertainment,Misc
+62,24,Male,Yes,Yes,Minecraft,Minecraft,entertainment,Misc
+63,21,Male,Yes,Yes,Minecraft,Minecraft,creativity,Misc
+64,23,Female,No,Yes,Minecraft,Minecraft,entertainment,Misc
+65,23,Male,Yes,Yes,League of Legends,League of Legends,entertainment,Strategy
+66,23,Male,Yes,Yes,Grand Theft Auto: Vice City,Grand Theft Auto: Vice City,entertainment,Action
+67,26,Male,Yes,Yes,PlayerUnknown's Battlegrounds,PlayerUnknown's Battlegrounds,entertainment,Shooter
+68,22,Male,Yes,Yes,PlayerUnknown's Battlegrounds,PlayerUnknown's Battlegrounds,entertainment,Shooter
+69,23,Male,Yes,Yes,PlayerUnknown's Battlegrounds,PlayerUnknown's Battlegrounds,entertainment,Shooter
+70,23,Male,Yes,Yes,Grand Theft Auto: Vice City,Grand Theft Auto: Vice City,entertainment,Action
+71,23,Male,Yes,Yes,Call of Duty,Call of Duty,entertainment,Shooter
+72,23,Male,Yes,Yes,League of Legends,League of Legends,relaxation,Strategy
+73,23,Male,Yes,sometimes,Mario Kart,Mario Kart,entertainment,Racing
+74,21,Male,Yes,sometimes,Grand Theft Auto: Vice City,Grand Theft Auto: Vice City,entertainment,Action
+75,23,Male,Yes,Yes,Call of Duty,Call of Duty,entertainment,Shooter
+76,27,Male,Yes,sometimes,World of Warcraft,World of Warcraft,entertainment,Role-Playing
+77,23,Male,Yes,sometimes,Animal Crossing,Animal Crossing,entertainment,Simulation
+78,23,Male,Yes,Yes,Call of Duty,Call of Duty,entertainment,Shooter
+79,23,Male,Yes,sometimes,Fortnite,Call of Duty,entertainment,Shooter
+80,24,Male,Yes,Yes,Grand Theft Auto: Vice City,Grand Theft Auto: Vice City,entertainment,Action
+81,24,Male,No,Yes,Minecraft,Minecraft,entertainment,Misc
+82,22,Female,Yes,Yes,Minecraft,Minecraft,entertainment,Misc
+83,22,Male,Yes,sometimes,Minecraft,Minecraft,entertainment,Misc
+84,27,Male,No,Yes,Minecraft,Minecraft,entertainment,Misc
+85,23,Male,Yes,Yes,Call of Duty,Call of Duty,entertainment,Shooter
+86,23,Male,Yes,Yes,Grand Theft Auto: Vice City,Grand Theft Auto: Vice City,entertainment,Action
+87,23,Male,Yes,Yes,Grand Theft Auto: Vice City,Grand Theft Auto: Vice City,entertainment,Action
+88,23,Male,Yes,Yes,Call of Duty,Call of Duty,entertainment,Shooter
+89,26,Male,Yes,sometimes,Fortnite,Fortnite,entertainment,Shooter
+90,22,Male,Yes,Yes,League of Legends,League of Legends,relaxation,Strategy
+91,23,Male,Yes,Yes,Call of Duty,Call of Duty,entertainment,Shooter
+92,25,Male,Yes,No,FIFA 22,FIFA 22,competition,Sports
+93,23,Male,No,Yes,Minecraft,Minecraft,entertainment,Misc
+94,21,Male,Yes,Yes,Minecraft,Minecraft,creativity,Misc
+95,23,Male,Yes,Yes,Minecraft,Minecraft,entertainment,Misc
+96,23,Male,Yes,Yes,Minecraft,Minecraft,entertainment,Misc
+97,23,Male,Yes,Yes,PlayerUnknown's Battlegrounds,PlayerUnknown's Battlegrounds,entertainment,Shooter
+98,23,Male,Yes,Yes,PlayerUnknown's Battlegrounds,PlayerUnknown's Battlegrounds,entertainment,Shooter
